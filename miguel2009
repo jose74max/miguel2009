@@ -1,0 +1,14 @@
+EXTM3U
+ 
+ 
+MTvEXTM3U
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",mibn
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="futebol",SOL NASCENTE
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/SLNSCNTE.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="futebol",homen aranha
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/HOMEMARANHACASAHDDUB-BAIXO.mp4?token=ATmflcVdgdChCflvVUssyg&expires=1569303900
+ 
+#EXTINF:0 tvg-logo="" group-title="futebol",VELOZES
+http://mrq1.azureedge.net/movies/velozesfuriosos2019-dub-720p.mp
