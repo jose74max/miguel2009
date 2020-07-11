@@ -2,7 +2,7 @@
 #EXTM3U
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLU
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globorj_bc15c774_89afd69471ca7766c8f2ee99d5a4d6ab7904418f/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globorj_bc15c774_89afd69471ca7766c8f2ee99d5a4d6ab7904418f/play
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL,FLUMINENSE X FOGÃO
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
@@ -18,39 +18,38 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
 https://uol.azureedge.net/RCFServer4/ondemand/ADVSAO.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
-https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP09.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP01.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 02
-https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP09.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP02.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 03
-https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP09.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP03.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 04
-https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP04.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP04.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 05
-https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP05.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP05.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 06
-https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP06.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP06.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 07
-https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP07.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP07.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 08
-https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP08.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP08.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 09
-https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP09.mp4?attachment=true
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP09.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 10
-https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP10.mp4?attachment=true
-
+https://redecanais.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP10.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="globo", globo
 https://stream.ec.cx/hls1/boborj.m3u8?
 
