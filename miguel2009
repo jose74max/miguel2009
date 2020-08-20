@@ -23,23 +23,26 @@ https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
 #EXTINF:0 tvg-logo="" group-title="filme",bilionarios
 https://d3hcyf98g4mn0i.cloudfront.net/e/RCFServer5/ondemand/MGNTDCRME.mp4?attachment=trueue
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines",ONZE 79
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP079.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 02
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP02.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 80
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP080.mp4?attachment=true
 
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 81
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP081.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 03
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP03.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 82
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP082.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 04
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP04.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 83
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP083.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 05
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP05.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 84
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP084.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines", ONZE 85
+https://osiolistic.azureedge.net/RCServer03/ondemand/INZMELVEP085.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 06
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP06.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 07
