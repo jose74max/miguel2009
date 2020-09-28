@@ -8,15 +8,19 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_5
 #EXTINF:0 tvg-logo="" group-title="filme",tnt
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_4776ae2274125cb84f63ee8d642fa1caff7a2c89/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,telecine
-https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1597234287&token=13322bf7b4fe268b1839fc337b850e27
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",juventude
-https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 1
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
+https://cdn.netcine.info/html/content/conteudolb4/filmes2020/HOOKINGUPDUB-BAIXO.mp4?token=xcHrh7mRN907cRCcKtcaLw&expires=1601257848&ip=2804:7f4:fb80:9a33:681c:5153:9a90:7153
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO HD FUTMAX
+https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=WeVt2adyejwBS0PdUAjY4w&e=1599449329
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",MULAN NET CINE
+https://cdn.netcine.info/html/content/conteudolb4/filmes2020/2020MULANDUB-BAIXO.mp4?token=ooxuv3wmekViMqgldDnAtQ&expires=1601281983&ip=2804:7f4:fb80:9a33:681c:5153:9a90:7153
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO 2 2
+https://extedge.eu-central-1.edge.mycdn.live/mylive/sportvsd/2020/09/06/21/30/25-05000.ts
 
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 2
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
+#EXTINF:0 tvg-logo="" group-title="FUTEbol, CEARA AO VIVO
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FILME",MULAN
+https://power1.azureedge.net/RCFServer5/ondemand/MULAN.mp4?attachment=true
 
 
 
